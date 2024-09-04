@@ -1,0 +1,36 @@
+# Ignorar carpetas de configuración del sistema
+.android/
+.bash_history
+.config/
+.console-ninja/
+.dbus-keyrings/
+.gitconfig
+.lesshst
+.node_repl_history
+.ssh/
+.terminus/
+.viminfo
+.vscode/
+
+# Ignorar carpetas de usuario
+3D\ Objects/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Local\ Sites/
+Music/
+NTUSER.*
+OneDrive/
+Pictures/
+Saved\ Games/
+Searches/
+Videos/
+Zotero/
+node_modules/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+random.dat
+wp-cli.phar
